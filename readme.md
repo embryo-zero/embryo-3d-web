@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo 3D Web
+
+**Embryo 3D Web** is Embryo-Zero's fork of [Babylon.js](https://github.com/BabylonJS/Babylon.js), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # Babylon.js
 
 Getting started? Play directly with the Babylon.js API using our [playground](https://playground.babylonjs.com/). It also contains a lot of samples to learn how to use it.
